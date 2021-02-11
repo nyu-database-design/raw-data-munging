@@ -27,7 +27,7 @@ For teams where meeting in real-time, either virtually or in person, is not feas
 ### The big idea
 Teams set up a shared repository of code on a web site such as github.com.  Whenever a teammate begins working on the code, they first download the latest code from the repository on github.com, and then begin their changes. 
 
-It is agreed that whenever a team member makes significant changes to the code on their own computers, they will upload their changes to the shared repository on github.com so that others can see them and download them.
+It is agreed that whenever a team member makes significant changes to the code on their own computers, they will upload their changes to the shared repository on github.com so that others can see the changes and download them.
 
 ### Project setup
 To begin, the remote repository on github.com is created and each teammate makes a copy of it on their own computers using the `git clone` command either from the command line, or in a git-enabled code editor such as Visual Studio Code.
