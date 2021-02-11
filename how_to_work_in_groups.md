@@ -1,9 +1,9 @@
 # How To Work In Groups
 
 There are three workflows groups can work together on a project:
-1. With one person as the dedicated code writer, and the others act as advisors and helpers, looking at a shared view of the code editor and discussing the code as the dedicated writer writes it.
+1. With one person as the dedicated code writer, and the others act as advisors and helpers in real-time, looking at a shared view of the code editor and discussing the code as the dedicated writer writes it.
 1. With everyone involved writing the code in real-time, using a real-time collaborative code writing tool.
-1. With everyone involved writing the code, but doing so asynchronously, following a specific `git`-enabled workflow that helps avoid conflicts.
+1. With everyone involved writing the code, but doing so asynchronously, following a specific git-enabled workflow that helps avoid conflicts.
 
 The decision which workflow to use is up to each team, but we will discuss each process below.
 
@@ -22,7 +22,7 @@ The [Live Share Extension Pack for Visual Studio Code](https://marketplace.visua
 See a video tutorial on [using Visual Studio Code's Live Share Extension Pack](https://www.youtube.com/watch?v=I7TZdfSaAhk)
 
 ## Asynchronous code collaboration
-For teams where meeting in real-time, either virtually or in person, is not feasible, a specific `git`-enabled workflow can allow team members to collaborate asynchronously while not overwriting each others' work accidentally.
+For teams where meeting in real-time, either virtually or in person, is not feasible, a specific git-enabled workflow can allow team members to collaborate asynchronously while not overwriting each others' work accidentally.
 
 ### The big idea
 Teams set up a shared repository of code on a web site such as github.com.  Whenever a teammate begins working on the code, they first download the latest code from the repository on github.com, and then begin their changes. 
@@ -30,7 +30,7 @@ Teams set up a shared repository of code on a web site such as github.com.  When
 It is agreed that whenever a team member makes significant changes to the code on their own computers, they will upload their changes to the shared repository on github.com so that others can see them and download them.
 
 ### Project setup
-To begin, the remote repository on github.com is created and each teammate makes a copy of it on their own computers using the `git clone` command either from the command line, or in a `git`-enabled code editor such as Visual Studio Code.
+To begin, the remote repository on github.com is created and each teammate makes a copy of it on their own computers using the `git clone` command either from the command line, or in a git-enabled code editor such as Visual Studio Code.
 
 See a video tutorial on [how to clone a repository from github.com](https://www.youtube.com/watch?v=axcny0o1NYo).
 
