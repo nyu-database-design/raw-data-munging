@@ -9,6 +9,11 @@ In this assignment, you will try to make usable a real data source: **NASA's his
 
 ## Instructions
 
+### Part 0: Decide upon a workflow
+Teams have a few different workflows they can follow.  Real-time collaboration is highly recommended and generally far more effective than asynchronous collaboration.  However, in cases where real-time collaboration is not possible, there are specific workflows that help asynchronous team work.  
+
+See [how to work in groups](./how_to_work_in_groups.md) for the options.
+
 ### Part 1: Download the data
 NASA's [GISS Surface Temperature Analysis web site](https://data.giss.nasa.gov/gistemp/) gives an overview of the data set - they publish recordings in the change of the Earth's surface temperature going back to the year 1880.  
 - The numbers do not represent actual temperature readings, but rather represent temperature *anomalies*.
