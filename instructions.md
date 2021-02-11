@@ -5,7 +5,6 @@ In this assignment, you will try to make usable a real data source: **NASA's his
 1. Download raw data.
 1. Write a Python program to clean up (i.e. munge) the data and save it into a standard Comma-Separated Values (CSV) format text file.
 1. Write a second Python program to do some simple analysis of the data in the CSV file.
-1. Answer some questions about the data.
 
 ## Instructions
 
