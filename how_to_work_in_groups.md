@@ -51,7 +51,7 @@ The following is an outline of the steps a developer would take each time they w
 ### Git pull
 A screenshot showing how to perform the `git pull` command from within Visual Studio Code.  This downloads the latest code from a remote repository to your own machine.
 
-![Download changes from a remote repository from Visual Studio Code](./images/vscode_stage_commit_push.png)
+![Download changes from a remote repository from Visual Studio Code](./images/vscode_git_pull.png)
 
 ### Git add, commit, and push
 A screenshot showing how to perform `git add .`, `git commit`, and `git push` commands from within Visual Studio Code.   This uploads changes you have made on your own machine to a remote repository so others can download them.
