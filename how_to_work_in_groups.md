@@ -2,8 +2,8 @@
 
 There are three workflows groups can work together on a project:
 1. With one person as the dedicated code writer, and the others act as advisors and helpers in real-time, looking at a shared view of the code editor and discussing the code as the dedicated writer writes it.
-1. With everyone involved writing the code in real-time, using a real-time collaborative code writing tool.
-1. With everyone involved writing the code, but doing so asynchronously, following a specific git-enabled workflow that helps avoid conflicts.
+1. With all team members actively writing the code in real-time, using a real-time collaborative code writing tool so each developer sees the others' contributions live.
+1. With everyone involved writing the code, but doing so asynchronously, following a specific git-enabled workflow that helps avoid common conflicts such as one developer accidentally overwriting another's work.
 
 The decision which workflow to use is up to each team, but we will discuss each process below.
 
@@ -12,7 +12,7 @@ This is a variation of the idea of a "[pair programming](https://en.wikipedia.or
 
 This workflow can be especially helpful if the programmer writing the code is less experienced than the others advising, although it is not limited to such scenarios.
 
-When team members are in the same room, the non-writing members can simply look over the should of the writer.  In remote teams, simple screen sharing software suffices to show everyone the code as it is being written and using audio chat to discuss.
+When team members are in the same room, the non-writing members can simply look over the shoulder of the writer.  In remote teams, simple screen sharing software suffices to show everyone the code as it is being written and using audio chat to discuss.
 
 ## Real-time code collaboration
 In this workflow, all team members have access to the code and modify it together in a real-time code collaboration environment.  
