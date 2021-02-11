@@ -34,7 +34,7 @@ To begin, the remote repository on github.com is created and each teammate makes
 
 See a video tutorial on [how to clone a repository from github.com](https://www.youtube.com/watch?v=axcny0o1NYo).
 
-Developers should share notes, thoughts, and discussion about the code in a chat system, such as Slack, DIsco
+Developers should share notes, thoughts, and discussion about the code in a chat system, such as Slack, Discord, Gitter, or other.
 
 ### Workflow
 The following is an outline of the steps a developer would take each time they work on the code.  The `git` commands are indicated below, although a `git`-enabled code editor, such as Visual Studio Code, can perform these commands at the click of a button, rather than from the command line.
